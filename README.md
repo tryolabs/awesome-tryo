@@ -67,7 +67,6 @@ Are you *sure* Postgres can't do what you want?
 
 * [CouchDB][couch]
 
-[mongo]: http://www.mongodb.org/
 [couch]: http://couchdb.apache.org/
 
 ### Key-Value
