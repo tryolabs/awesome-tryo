@@ -79,6 +79,26 @@ Are you *sure* Postgres can't do what you want?
 [dynamo]: http://aws.amazon.com/dynamodb/
 [riak]: http://basho.com/riak/
 
+# Libraries
+
+## Machine Learning
+
+* [SciPy][scipy]
+* [scikit-learn][sk-learn]
+* [Natural Language Toolkit][nltk]
+
+[scipy]: http://www.scipy.org/
+[sk-learn]: http://scikit-learn.org/stable/
+[nltk]: https://www.djangoproject.com/
+
+## Web
+
+* [Django][django]
+* [Django REST framework][django-rest]
+
+[django]: https://www.djangoproject.com/
+[django-rest]: http://www.django-rest-framework.org/
+
 # Books
 
 This list of books represents, in our opinion, a good balance between theory and
