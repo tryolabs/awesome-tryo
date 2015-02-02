@@ -59,6 +59,28 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 [postgres-text]: http://www.postgresql.org/docs/8.3/static/textsearch.html
 [postgres-gis]: http://postgis.net/
 
+## NoSQL
+
+Are you *sure* Postgres can't do what you want?
+
+### Document
+
+* [MongoDB][mongo]
+* [CouchDB][couch]
+
+[mongo]: http://www.mongodb.org/
+[couch]: http://couchdb.apache.org/
+
+### Key-Value
+
+* [Redis][redis]
+* [Dynamo][dynamo]
+* [Riak][riak]
+
+[redis]: http://redis.io/
+[dynamo]: http://aws.amazon.com/dynamodb/
+[riak]: http://basho.com/riak/
+
 # Books
 
 This list of books represents, in our opinion, a good balance between theory and
