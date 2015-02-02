@@ -30,6 +30,14 @@ The [PEP8][pep8] is the definitive reference for Python coding style. The
 [pep8][pep8-py] package can be used to scan code and find parts that don't
 conform to the PEP8 standard.
 
+# Databases
+
+## Relational
+
+Just use [Postgres][postgres]. It's not just a database, it's a complete
+"relational database framework" that provides [full-text search][postgres-text],
+[GIS][postgres-gis] and extensive documentation of every knob and lever.
+
 [tryo]: http://tryolabs.com/
 
 [venv]: https://virtualenv.pypa.io/en/latest/
@@ -37,3 +45,7 @@ conform to the PEP8 standard.
 
 [pep8]: http://www.python.org/dev/peps/pep-0008/
 [pep8-py]: https://pypi.python.org/pypi/pep8
+
+[postgres]: http://www.postgresql.org/
+[postgres-text]: http://www.postgresql.org/docs/8.3/static/textsearch.html
+[postgres-gis]: http://postgis.net/
