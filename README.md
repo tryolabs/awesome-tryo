@@ -24,6 +24,11 @@ system.
 * [virtualenv][venv]
 * [virtualenvwrapper][venv-wrapper]
 
+## Source Control
+
+Just use [git][git]. A good resource is the [Pro Git][pro-git] book by Scott
+Chacon, and [GitHub's help site][gh-help].
+
 # Standards and Conventions
 
 The [PEP8][pep8] is the definitive reference for Python coding style. The
@@ -82,6 +87,10 @@ take a few books from this common list.
 
 [venv]: https://virtualenv.pypa.io/en/latest/
 [venv-wrapper]: http://virtualenvwrapper.readthedocs.org/en/latest/
+
+[git]: http://git-scm.com/
+[pro-git]: http://git-scm.com/book/en/v2
+[gh-help]: https://help.github.com/articles/good-resources-for-learning-git-and-github/
 
 [pep8]: http://www.python.org/dev/peps/pep-0008/
 [pep8-py]: https://pypi.python.org/pypi/pep8
