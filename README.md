@@ -38,6 +38,13 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 "relational database framework" that provides [full-text search][postgres-text],
 [GIS][postgres-gis] and extensive documentation of every knob and lever.
 
+# Books
+
+## Machine Learning
+
+* [Machine Learning: The Art and Science of Algorithms that Make Sense of Data][ml-book]
+* [Learning scikit-learn: Machine Learning in Python][learning-scikit-learn]
+
 [tryo]: http://tryolabs.com/
 
 [venv]: https://virtualenv.pypa.io/en/latest/
@@ -49,3 +56,6 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 [postgres]: http://www.postgresql.org/
 [postgres-text]: http://www.postgresql.org/docs/8.3/static/textsearch.html
 [postgres-gis]: http://postgis.net/
+
+[ml-book]: http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/machine-learning-art-and-science-algorithms-make-sense-data
+[learning-scikit-learn]: https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python
