@@ -40,10 +40,16 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 
 # Books
 
+This list of books represents, in our opinion, a good balance between theory and
+practice. We don't expect everyone to read all of these, rather, they should
+take a few books from this common list.
+
 ## Machine Learning
 
 * [Machine Learning: The Art and Science of Algorithms that Make Sense of Data][ml-book]
 * [Learning scikit-learn: Machine Learning in Python][learning-scikit-learn]
+* [The Elements of Statistical Learning: Data Mining, Inference, and Prediction][elements-learning]
+* [Principles of Data Mining][principles-dm]
 
 ## Information Retrieval
 
@@ -51,6 +57,15 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 * [Introduction to Information Retrieval][intro-ir]
 * [Modern Information Retrieval][modern-ir]
 * [Information Retrieval: Searching in the 21st Century][ir-search-book]
+* [Information Retrieval: Algorithms and Heuristics][ir-algorithms]
+
+## Scala
+
+* [Play for Scala][play-for-scala]
+
+## Software Architecture
+
+* [The Architecture of Open Source Applications][aos-book]
 
 # Papers
 
@@ -77,11 +92,18 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 
 [ml-book]: http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/machine-learning-art-and-science-algorithms-make-sense-data
 [learning-scikit-learn]: https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python
+[elements-learning]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
+[principles-dm]: http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-4471-4883-8
 
 [managing-gb]: http://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703
 [intro-ir]: http://nlp.stanford.edu/IR-book/
 [modern-ir]: http://www.mir2ed.org/
 [ir-search-book]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470027622.html
+[ir-algorithms]: http://www.springer.com/computer/ai/book/978-1-4020-3003-1
+
+[play-for-scala]: http://www.manning.com/hilton/
+
+[aos-book]: http://aosabook.org/en/index.html
 
 [oo-text-retrieval]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.820&rep=rep1&type=pdf
 [func-geom]: https://cs.au.dk/~hosc/local/HOSC-15-4-pp349-365.pdf
