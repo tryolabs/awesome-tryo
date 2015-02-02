@@ -2,6 +2,8 @@
 
 A curated list of books, libraries, apps and papers we love at [Tryolabs][tryo].
 
+[tryo]: http://tryolabs.com/
+
 # Training
 
 The training period at Tryolabs is at least two weeks. Its goal is to get up to
@@ -24,16 +26,26 @@ system.
 * [virtualenv][venv]
 * [virtualenvwrapper][venv-wrapper]
 
+[venv]: https://virtualenv.pypa.io/en/latest/
+[venv-wrapper]: http://virtualenvwrapper.readthedocs.org/en/latest/
+
 ## Source Control
 
 Just use [git][git]. A good resource is the [Pro Git][pro-git] book by Scott
 Chacon, and [GitHub's help site][gh-help].
+
+[git]: http://git-scm.com/
+[pro-git]: http://git-scm.com/book/en/v2
+[gh-help]: https://help.github.com/articles/good-resources-for-learning-git-and-github/
 
 # Standards and Conventions
 
 The [PEP8][pep8] is the definitive reference for Python coding style. The
 [pep8][pep8-py] package can be used to scan code and find parts that don't
 conform to the PEP8 standard.
+
+[pep8]: http://www.python.org/dev/peps/pep-0008/
+[pep8-py]: https://pypi.python.org/pypi/pep8
 
 # Databases
 
@@ -42,6 +54,10 @@ conform to the PEP8 standard.
 Just use [Postgres][postgres]. It's not just a database, it's a complete
 "relational database framework" that provides [full-text search][postgres-text],
 [GIS][postgres-gis] and extensive documentation of every knob and lever.
+
+[postgres]: http://www.postgresql.org/
+[postgres-text]: http://www.postgresql.org/docs/8.3/static/textsearch.html
+[postgres-gis]: http://postgis.net/
 
 # Books
 
@@ -57,6 +73,12 @@ take a few books from this common list.
 * [Principles of Data Mining][principles-dm]
 * [Foundations of Statistical Natural Language Processing][foundations-nlp]
 
+[ml-book]: http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/machine-learning-art-and-science-algorithms-make-sense-data
+[learning-scikit-learn]: https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python
+[elements-learning]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
+[principles-dm]: http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-4471-4883-8
+[foundations-nlp]: http://nlp.stanford.edu/fsnlp/
+
 ## Information Retrieval
 
 * [Managing Gigabytes: Compressing and Indexing Documents and Images][managing-gb]
@@ -65,19 +87,33 @@ take a few books from this common list.
 * [Information Retrieval: Searching in the 21st Century][ir-search-book]
 * [Information Retrieval: Algorithms and Heuristics][ir-algorithms]
 
+[managing-gb]: http://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703
+[intro-ir]: http://nlp.stanford.edu/IR-book/
+[modern-ir]: http://www.mir2ed.org/
+[ir-search-book]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470027622.html
+[ir-algorithms]: http://www.springer.com/computer/ai/book/978-1-4020-3003-1
+
 ## Computer Vision
 
 * [Concise Computer Vision][concise-cv]
 * [Computer Vision: Algorithms and Applications][cv-algorithms]
 * [Learning OpenCV: Computer Vision in C++ with the OpenCV Library][opencv-book]
 
+[concise-cv]: http://www.springer.com/computer/image+processing/book/978-1-4471-6319-0
+[cv-algorithms]: http://www.springer.com/computer/image+processing/book/978-1-84882-934-3
+[opencv-book]: http://shop.oreilly.com/product/0636920022497.do
+
 ## Scala
 
 * [Play for Scala][play-for-scala]
 
+[play-for-scala]: http://www.manning.com/hilton/
+
 ## Software Architecture
 
 * [The Architecture of Open Source Applications][aos-book]
+
+[aos-book]: http://aosabook.org/en/index.html
 
 # Papers
 
@@ -89,42 +125,6 @@ take a few books from this common list.
 
 * [Functional Geometry][func-geom]
 * [Pictures: A simple structured graphics model][pictures-paper]
-
-[tryo]: http://tryolabs.com/
-
-[venv]: https://virtualenv.pypa.io/en/latest/
-[venv-wrapper]: http://virtualenvwrapper.readthedocs.org/en/latest/
-
-[git]: http://git-scm.com/
-[pro-git]: http://git-scm.com/book/en/v2
-[gh-help]: https://help.github.com/articles/good-resources-for-learning-git-and-github/
-
-[pep8]: http://www.python.org/dev/peps/pep-0008/
-[pep8-py]: https://pypi.python.org/pypi/pep8
-
-[postgres]: http://www.postgresql.org/
-[postgres-text]: http://www.postgresql.org/docs/8.3/static/textsearch.html
-[postgres-gis]: http://postgis.net/
-
-[ml-book]: http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/machine-learning-art-and-science-algorithms-make-sense-data
-[learning-scikit-learn]: https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python
-[elements-learning]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
-[principles-dm]: http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-4471-4883-8
-[foundations-nlp]: http://nlp.stanford.edu/fsnlp/
-
-[managing-gb]: http://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703
-[intro-ir]: http://nlp.stanford.edu/IR-book/
-[modern-ir]: http://www.mir2ed.org/
-[ir-search-book]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470027622.html
-[ir-algorithms]: http://www.springer.com/computer/ai/book/978-1-4020-3003-1
-
-[concise-cv]: http://www.springer.com/computer/image+processing/book/978-1-4471-6319-0
-[cv-algorithms]: http://www.springer.com/computer/image+processing/book/978-1-84882-934-3
-[opencv-book]: http://shop.oreilly.com/product/0636920022497.do
-
-[play-for-scala]: http://www.manning.com/hilton/
-
-[aos-book]: http://aosabook.org/en/index.html
 
 [oo-text-retrieval]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.820&rep=rep1&type=pdf
 [func-geom]: https://cs.au.dk/~hosc/local/HOSC-15-4-pp349-365.pdf
