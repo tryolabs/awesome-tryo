@@ -50,6 +50,16 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 * [Managing Gigabytes: Compressing and Indexing Documents and Images][managing-gb]
 * [Introduction to Information Retrieval][intro-ir]
 
+# Papers
+
+## Information Retrieval
+
+* [An Object-Oriented Architecture for Text Retrieval][oo-text-retrieval]
+
+## General
+
+* [Functional Geometry][func-geom]
+
 [tryo]: http://tryolabs.com/
 
 [venv]: https://virtualenv.pypa.io/en/latest/
@@ -67,3 +77,6 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 
 [managing-gb]: http://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703
 [intro-ir]: http://nlp.stanford.edu/IR-book/
+
+[oo-text-retrieval]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.820&rep=rep1&type=pdf
+[func-geom]: https://cs.au.dk/~hosc/local/HOSC-15-4-pp349-365.pdf
