@@ -55,6 +55,7 @@ take a few books from this common list.
 * [Learning scikit-learn: Machine Learning in Python][learning-scikit-learn]
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction][elements-learning]
 * [Principles of Data Mining][principles-dm]
+* [Foundations of Statistical Natural Language Processing][foundations-nlp]
 
 ## Information Retrieval
 
@@ -63,6 +64,12 @@ take a few books from this common list.
 * [Modern Information Retrieval][modern-ir]
 * [Information Retrieval: Searching in the 21st Century][ir-search-book]
 * [Information Retrieval: Algorithms and Heuristics][ir-algorithms]
+
+## Computer Vision
+
+* [Concise Computer Vision][concise-cv]
+* [Computer Vision: Algorithms and Applications][cv-algorithms]
+* [Learning OpenCV: Computer Vision in C++ with the OpenCV Library][opencv-book]
 
 ## Scala
 
@@ -103,12 +110,17 @@ take a few books from this common list.
 [learning-scikit-learn]: https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python
 [elements-learning]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
 [principles-dm]: http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-4471-4883-8
+[foundations-nlp]: http://nlp.stanford.edu/fsnlp/
 
 [managing-gb]: http://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703
 [intro-ir]: http://nlp.stanford.edu/IR-book/
 [modern-ir]: http://www.mir2ed.org/
 [ir-search-book]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470027622.html
 [ir-algorithms]: http://www.springer.com/computer/ai/book/978-1-4020-3003-1
+
+[concise-cv]: http://www.springer.com/computer/image+processing/book/978-1-4471-6319-0
+[cv-algorithms]: http://www.springer.com/computer/image+processing/book/978-1-84882-934-3
+[opencv-book]: http://shop.oreilly.com/product/0636920022497.do
 
 [play-for-scala]: http://www.manning.com/hilton/
 
