@@ -65,7 +65,6 @@ Are you *sure* Postgres can't do what you want?
 
 ### Document
 
-* [MongoDB][mongo]
 * [CouchDB][couch]
 
 [mongo]: http://www.mongodb.org/
