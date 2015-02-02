@@ -45,6 +45,13 @@ CLI for iOS projects. Has various tools to perform common task from the command 
 
 [nomad]:http://nomad-cli.com/
 
+## Vagrant
+
+[Vagrant][vagrant] is a tool for creating isolated, reproducible development
+environments using virtual machines.
+
+[vagrant]: https://www.vagrantup.com/
+
 ## Source Control
 
 Just use [git][git]. A good resource is the [Pro Git][pro-git] book by Scott
