@@ -29,6 +29,22 @@ system.
 [venv]: https://virtualenv.pypa.io/en/latest/
 [venv-wrapper]: http://virtualenvwrapper.readthedocs.org/en/latest/
 
+## cocoapods
+
+Package manager for iOS projects. Handle the setup and update of XCode projects to speed up the integration of new components.
+
+* [cocoapods][cocoapods]
+
+[cocoapods]:http://cocoapods.org/
+
+## nomad
+
+CLI for iOS projects. Has various tools to perform common task from the command line (ex: generate, sign and ditribute OTA an ipa)
+
+* [nomad][nomad]
+
+[nomad]:http://nomad-cli.com/
+
 ## Source Control
 
 Just use [git][git]. A good resource is the [Pro Git][pro-git] book by Scott
@@ -67,6 +83,7 @@ Are you *sure* Postgres can't do what you want?
 
 * [CouchDB][couch]
 
+[mongo]: http://www.mongodb.org/
 [couch]: http://couchdb.apache.org/
 
 ### Key-Value
@@ -79,25 +96,11 @@ Are you *sure* Postgres can't do what you want?
 [dynamo]: http://aws.amazon.com/dynamodb/
 [riak]: http://basho.com/riak/
 
-# Libraries
+### Graph
 
-## Machine Learning
+* [Neo4j][neo4j]
 
-* [SciPy][scipy]
-* [scikit-learn][sk-learn]
-* [Natural Language Toolkit][nltk]
-
-[scipy]: http://www.scipy.org/
-[sk-learn]: http://scikit-learn.org/stable/
-[nltk]: https://www.djangoproject.com/
-
-## Web
-
-* [Django][django]
-* [Django REST framework][django-rest]
-
-[django]: https://www.djangoproject.com/
-[django-rest]: http://www.django-rest-framework.org/
+[neo4j]:http://neo4j.com/
 
 # Books
 
@@ -146,8 +149,10 @@ take a few books from this common list.
 ## Scala
 
 * [Play for Scala][play-for-scala]
+* [Scala by Example][scala-by-example]
 
 [play-for-scala]: http://www.manning.com/hilton/
+[scala-by-example]:http://www.scala-lang.org/docu/files/ScalaByExample.pdf
 
 ## Software Architecture
 
@@ -155,17 +160,24 @@ take a few books from this common list.
 
 [aos-book]: http://aosabook.org/en/index.html
 
+## Programming Language
+
+* [Structure and Interpretation of Computer Programs][sicp]
+
+[sicp]:http://mitpress.mit.edu/sicp/full-text/book/book.html
+
 # Papers
 
 ## Information Retrieval
 
 * [An Object-Oriented Architecture for Text Retrieval][oo-text-retrieval]
 
+[oo-text-retrieval]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.820&rep=rep1&type=pdf
+
 ## General
 
 * [Functional Geometry][func-geom]
 * [Pictures: A simple structured graphics model][pictures-paper]
 
-[oo-text-retrieval]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.53.820&rep=rep1&type=pdf
 [func-geom]: https://cs.au.dk/~hosc/local/HOSC-15-4-pp349-365.pdf
 [pictures-paper]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.1524&rep=rep1&type=pdf
