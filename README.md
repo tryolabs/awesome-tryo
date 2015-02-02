@@ -45,6 +45,11 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 * [Machine Learning: The Art and Science of Algorithms that Make Sense of Data][ml-book]
 * [Learning scikit-learn: Machine Learning in Python][learning-scikit-learn]
 
+## Information Retrieval
+
+* [Managing Gigabytes: Compressing and Indexing Documents and Images][managing-gb]
+* [Introduction to Information Retrieval][intro-ir]
+
 [tryo]: http://tryolabs.com/
 
 [venv]: https://virtualenv.pypa.io/en/latest/
@@ -59,3 +64,6 @@ Just use [Postgres][postgres]. It's not just a database, it's a complete
 
 [ml-book]: http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/machine-learning-art-and-science-algorithms-make-sense-data
 [learning-scikit-learn]: https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python
+
+[managing-gb]: http://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703
+[intro-ir]: http://nlp.stanford.edu/IR-book/
