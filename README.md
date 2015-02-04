@@ -90,7 +90,6 @@ Are you *sure* Postgres can't do what you want?
 
 * [CouchDB][couch]
 
-[mongo]: http://www.mongodb.org/
 [couch]: http://couchdb.apache.org/
 
 ### Key-Value
@@ -116,10 +115,12 @@ Are you *sure* Postgres can't do what you want?
 * [SciPy][scipy]
 * [scikit-learn][sk-learn]
 * [Natural Language Toolkit][nltk]
+* [NumPy][numpy]
 
 [scipy]: http://www.scipy.org/
 [sk-learn]: http://scikit-learn.org/stable/
 [nltk]: https://www.djangoproject.com/
+[numpy]: http://www.numpy.org/
 
 ## Web
 
