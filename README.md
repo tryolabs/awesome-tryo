@@ -31,7 +31,8 @@ system.
 
 ## cocoapods
 
-Package manager for iOS projects. Handle the setup and update of XCode projects to speed up the integration of new components.
+Package manager for iOS projects. Handle the setup and update of XCode projects
+to speed up the integration of new components.
 
 * [cocoapods][cocoapods]
 
@@ -39,7 +40,8 @@ Package manager for iOS projects. Handle the setup and update of XCode projects 
 
 ## nomad
 
-CLI for iOS projects. Has various tools to perform common task from the command line (ex: generate, sign and ditribute OTA an ipa)
+CLI for iOS projects. Has various tools to perform common task from the command
+line (ex: generate, sign and ditribute OTA an ipa)
 
 * [nomad][nomad]
 
