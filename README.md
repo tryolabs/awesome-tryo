@@ -16,7 +16,9 @@ and the tools. The goal is to get the mentor to coment on the tasks they are
 doing to the person in training.
 
 # Development Tools
+
 ## Python
+
 ### virtualenv and virtualenvwrapper
 
 A very useful development tool that lets us create isolated Python environments
@@ -30,6 +32,7 @@ system.
 [venv-wrapper]: http://virtualenvwrapper.readthedocs.org/en/latest/
 
 ## iOS
+
 ### cocoapods
 
 Package manager for iOS projects. Handle the setup and update of XCode projects
@@ -49,6 +52,7 @@ line (ex: generate, sign and ditribute OTA an ipa)
 [nomad]:http://nomad-cli.com/
 
 ## Other
+
 ### Vagrant
 
 [Vagrant][vagrant] is a tool for creating isolated, reproducible development
