@@ -70,6 +70,12 @@ conform to the PEP8 standard.
 [pep8]: http://www.python.org/dev/peps/pep-0008/
 [pep8-py]: https://pypi.python.org/pypi/pep8
 
+# Deploying
+
+We use [Ansible][ansible] for all our deployment and server orchestration tasks.
+
+[ansible]: http://www.ansible.com/home
+
 # Databases
 
 ## Relational
