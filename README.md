@@ -125,9 +125,11 @@ Are you *sure* Postgres can't do what you want?
 
 * [Django][django]
 * [Django REST framework][django-rest]
+* [Scrapy][scrapy]
 
 [django]: https://www.djangoproject.com/
 [django-rest]: http://www.django-rest-framework.org/
+[scrapy]: http://scrapy.org/
 
 # Books
 
