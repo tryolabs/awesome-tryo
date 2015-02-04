@@ -230,29 +230,33 @@ take a few books from this common list.
 
 # Tech Stack
 
-First things first: Machines are meant to be identical. Ansible provisions your
-local Vagrant box the same way it provisions a server. This way the production
-environment is the same as the development one, and we avoid hard to find bugs
-while being fairly certain that if something works in dev, it will work in prod.
+First things first: Machines are meant to be identical. [Ansible][ansible]
+provisions your local [Vagrant][vagrant] box the same way it provisions a
+server. This way the production environment is the same as the development one,
+and we avoid hard to find bugs while being fairly certain that if something
+works in dev, it will work in prod.
 
 Specifically, machines look like this:
 
-* The application is run inside a virtualenv, even if it's the only application
-  in the server. This makes it easy to add other applications should the need
-  arise, for instance, you might want to run an IPython Notebook server with a
-  Notebook that provides some analytics and charts of the data in your database,
-  without contaminating the app's environment with IPython's dependencies.
+* The application is run inside a [virtualenv][venv], even if it's the only
+  application in the server. This makes it easy to add other applications should
+  the need arise, for instance, you might want to run an IPython Notebook server
+  with a Notebook that provides some analytics and charts of the data in your
+  database, without contaminating the app's environment with IPython's
+  dependencies.
 
-* Nginx is used as a reverse proxy, sending requests from the Internet to the
-  Django server and responses the other way around. Nginx can take care of load
-  balancing, caching, HTTP acceleration and some degree of security.
+* [Nginx][nginx] is used as a reverse proxy, sending requests from the Internet
+  to the Django server and responses the other way around. Nginx can take care
+  of load balancing, caching, HTTP acceleration and some degree of security.
 
-* Supervisor is used to keep the actual application server running, as well as
-  running other scripts or processes. Every process is logged to disk for
-  debugging.
+* [Supervisor][supervisord] is used to keep the actual application server
+  running, as well as running other scripts or processes. Every process is
+  logged to disk for debugging.
 
-* Postgres is the database, of course.
+* [Postgres][postgres] is the database, of course.
 
 Our tech stack looks roughly like this on most projects:
 
 ![Stack](https://rawgithub.com/tryolabs/awesome-tryo/master/stack.svg?raw=true)
+
+[supervisord]: http://supervisord.org/
