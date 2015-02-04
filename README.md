@@ -259,4 +259,5 @@ Our tech stack looks roughly like this on most projects:
 
 ![Stack](https://rawgithub.com/tryolabs/awesome-tryo/master/stack.svg?raw=true)
 
+[nginx]: http://nginx.org/
 [supervisord]: http://supervisord.org/
