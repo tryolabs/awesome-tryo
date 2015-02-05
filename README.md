@@ -18,7 +18,8 @@ products the lean way.
 
 The training period at Tryolabs is at least two weeks. Its goal is to get up to
 speed with the tools the company uses. This repo contains a list of tutorials
-and documentation useful for becoming familiar with the Django/Python ecosystem.
+and documentation useful for becoming familiar with the Django/Python ecosystem,
+as well as some ML and NLP techniques.
 
 During the training period, we recommend doing at least an hour a day of pairing
 with a mentor who has experience in the team, to get to know the work process
