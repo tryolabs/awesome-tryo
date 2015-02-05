@@ -263,5 +263,11 @@ Our tech stack looks roughly like this on most projects:
 
 ![Stack](https://rawgithub.com/tryolabs/awesome-tryo/master/stack.svg?raw=true)
 
+This is, of course, an approximation. Some projects use NoSQL databases in
+addition to relational ones, others use other things like message queues, some
+use specific tools like [Varnish][varnish] instead of Nginx for HTTP
+acceleration.
+
 [nginx]: http://nginx.org/
 [supervisord]: http://supervisord.org/
+[varnish]: https://www.varnish-cache.org/
