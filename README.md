@@ -71,6 +71,14 @@ environments using virtual machines.
 
 [vagrant]: https://www.vagrantup.com/
 
+### Docker
+
+[Docker][docker] is a tool for creating and managing
+[software containers][containers].
+
+[docker]: https://www.docker.com/
+[containers]: http://en.wikipedia.org/wiki/Operating-system-level_virtualization
+
 ### Metamon
 
 [Metamon][metamon] is a tool to automatically set up an isolated execution
