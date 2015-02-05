@@ -75,6 +75,14 @@ Chacon, and [GitHub's help site][gh-help].
 [pro-git]: http://git-scm.com/book/en/v2
 [gh-help]: https://help.github.com/articles/good-resources-for-learning-git-and-github/
 
+## Editors and IDEs
+
+* [Emacs][emacs]
+* [PyDev][pydev]
+
+[emacs]: http://www.gnu.org/software/emacs/
+[pydev]: http://pydev.org/
+
 # Standards and Conventions
 
 The [PEP8][pep8] is the definitive reference for Python coding style. The
