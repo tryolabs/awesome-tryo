@@ -1,10 +1,20 @@
 # Awesome Tryo
 
-A curated list of books, libraries, apps and papers we love at [Tryolabs][tryo].
+A curated list of books, libraries, apps and papers we love at
+[Tryolabs][tryo]. We work with blazing startups and help them build complex
+projects using Python, NLP & Machine Learning.
 
 [tryo]: http://tryolabs.com/
 
-# Training
+# Overview
+
+We create amazing Internet & Mobile products for blazing startups. We combine
+the python ecosystem with machine learning and natural language processing
+technologies to create heavy backend apps with artificial intelligence
+components. We follow agile methodologies in order to develop MVPs and full
+products the lean way.
+
+## Training
 
 The training period at Tryolabs is at least two weeks. Its goal is to get up to
 speed with the tools the company uses. This repo contains a list of tutorials
