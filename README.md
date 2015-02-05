@@ -62,7 +62,8 @@ environments using virtual machines.
 
 ### Metamon
 
-[Metamon][metamon] is a tool to automatically set up an isolated execution environment for Django applications.
+[Metamon][metamon] is a tool to automatically set up an isolated execution
+environment for Django applications.
 
 [metamon]:https://github.com/tryolabs/metamon
 
