@@ -89,8 +89,11 @@ The [PEP8][pep8] is the definitive reference for Python coding style. The
 [pep8][pep8-py] package can be used to scan code and find parts that don't
 conform to the PEP8 standard.
 
+With Emacs, the [emacs-pep8] package can be used to run the pep8.py script.
+
 [pep8]: http://www.python.org/dev/peps/pep-0008/
 [pep8-py]: https://pypi.python.org/pypi/pep8
+[emacs-pep8]: https://marmalade-repo.org/packages/pep8
 
 # Deploying
 
