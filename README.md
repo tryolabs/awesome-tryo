@@ -140,8 +140,12 @@ Are you *sure* Postgres can't do what you want?
 ### Document
 
 * [CouchDB][couch]
+* [RethinkDB][rethinkdb]
+* [Elasticsearch][elasticsearch]
 
 [couch]: http://couchdb.apache.org/
+[rethinkdb]: http://rethinkdb.com/
+[elasticsearch]: http://www.elasticsearch.com/products/elasticsearch/
 
 ### Key-Value
 
