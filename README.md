@@ -267,6 +267,20 @@ take a few books from this common list.
 [func-geom]: https://cs.au.dk/~hosc/local/HOSC-15-4-pp349-365.pdf
 [pictures-paper]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.1524&rep=rep1&type=pdf
 
+# Web Design
+
+## Aggregators
+
+* [Dribbble][dribbble]
+* [siteInspire][site-inspire]
+* [Flat UI Design][flat-ui]
+* [Mobile Patterns][mobile-pats]
+
+[dribbble]: https://dribbble.com/
+[site-inspire]: http://www.siteinspire.com/
+[flat-ui]: http://fltdsgn.com/
+[mobile-pats]: http://www.mobile-patterns.com/
+
 # Tech Stack
 
 First things first: Machines are meant to be identical. [Ansible][ansible]
