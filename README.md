@@ -293,6 +293,18 @@ take a few books from this common list.
 [ikons]: http://ikons.piotrkwiatkowski.co.uk/
 [icomoon]: https://icomoon.io/
 
+## Libraries and Resources
+
+* [Device mockups][device-mockups]
+* [Browser logos][browser-logos]
+* [SweetAlert][sweet-alert]
+* [Grid forms][grid-forms]
+
+[device-mockups]: https://github.com/pixelsign/html5-device-mockups
+[browser-logos]: https://github.com/paulirish/browser-logos
+[sweet-alert]: https://github.com/t4t5/sweetalert
+[grid-forms]: http://kumailht.com/gridforms/
+
 # Tech Stack
 
 First things first: Machines are meant to be identical. [Ansible][ansible]
