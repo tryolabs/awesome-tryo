@@ -281,6 +281,18 @@ take a few books from this common list.
 [flat-ui]: http://fltdsgn.com/
 [mobile-pats]: http://www.mobile-patterns.com/
 
+## Icons
+
+* [Mfizz font][mfizz]
+* [Devicons][devicons]
+* [Ikons][ikons]
+* [Icomoon][icomoon]
+
+[mfizz]: http://fizzed.com/oss/font-mfizz
+[devicons]: http://vorillaz.github.io/devicons/#/dafont
+[ikons]: http://ikons.piotrkwiatkowski.co.uk/
+[icomoon]: https://icomoon.io/
+
 # Tech Stack
 
 First things first: Machines are meant to be identical. [Ansible][ansible]
