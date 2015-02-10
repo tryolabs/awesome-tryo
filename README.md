@@ -263,9 +263,11 @@ take a few books from this common list.
 
 * [Functional Geometry][func-geom]
 * [Pictures: A simple structured graphics model][pictures-paper]
+* [The Problem with Threads (Threads are Evil)][threads-are-evil]
 
 [func-geom]: https://cs.au.dk/~hosc/local/HOSC-15-4-pp349-365.pdf
 [pictures-paper]: http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.48.1524&rep=rep1&type=pdf
+[threads-are-evil]: http://www.eecs.berkeley.edu/Pubs/TechRpts/2006/EECS-2006-1.pdf
 
 # Web Design
 
