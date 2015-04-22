@@ -289,11 +289,13 @@ take a few books from this common list.
 * [Devicons][devicons]
 * [Ikons][ikons]
 * [Icomoon][icomoon]
+* [Iconic][iconic]
 
 [mfizz]: http://fizzed.com/oss/font-mfizz
 [devicons]: http://vorillaz.github.io/devicons/#/dafont
 [ikons]: http://ikons.piotrkwiatkowski.co.uk/
 [icomoon]: https://icomoon.io/
+[iconic]: https://useiconic.com/icons/
 
 ## Libraries and Resources
 
