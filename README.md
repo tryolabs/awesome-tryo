@@ -211,14 +211,10 @@ take a few books from this common list.
 
 * [Managing Gigabytes: Compressing and Indexing Documents and Images][managing-gb]
 * [Introduction to Information Retrieval][intro-ir]
-* [Modern Information Retrieval][modern-ir]
-* [Information Retrieval: Searching in the 21st Century][ir-search-book]
 * [Information Retrieval: Algorithms and Heuristics][ir-algorithms]
 
 [managing-gb]: http://www.amazon.com/Managing-Gigabytes-Compressing-Multimedia-Information/dp/1558605703
 [intro-ir]: http://nlp.stanford.edu/IR-book/
-[modern-ir]: http://www.mir2ed.org/
-[ir-search-book]: http://www.wiley.com/WileyCDA/WileyTitle/productCd-0470027622.html
 [ir-algorithms]: http://www.springer.com/computer/ai/book/978-1-4020-3003-1
 
 ## Computer Vision
