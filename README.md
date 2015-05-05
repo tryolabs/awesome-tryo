@@ -67,7 +67,8 @@ line (ex: generate, sign and ditribute OTA an ipa)
 ### Vagrant
 
 [Vagrant][vagrant] is a tool for creating isolated, reproducible development
-environments using virtual machines.
+environments using virtual machines. It is usually used with VirtualBox, but
+supports VMWare and other virtualization systems.
 
 [vagrant]: https://www.vagrantup.com/
 
