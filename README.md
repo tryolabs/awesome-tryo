@@ -203,6 +203,7 @@ take a few books from this common list.
 * [Foundations of Statistical Natural Language Processing][foundations-nlp]
 * [Bayesian Reasoning and Machine Learning][bayesian-reasoning]
 * [Gaussian Processes for Machine Learning][gaussian-proc]
+* [Information Theory, Inference and Learning Algorithms][info-inference]
 
 [ml-book]: http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/machine-learning-art-and-science-algorithms-make-sense-data
 [learning-scikit-learn]: https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python
@@ -211,6 +212,7 @@ take a few books from this common list.
 [foundations-nlp]: http://nlp.stanford.edu/fsnlp/
 [bayesian-reasoning]: http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 [gaussian-proc]: http://www.gaussianprocess.org/gpml/
+[info-inference]: http://www.inference.phy.cam.ac.uk/itila/
 
 ## Information Retrieval
 
