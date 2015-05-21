@@ -201,12 +201,14 @@ take a few books from this common list.
 * [The Elements of Statistical Learning: Data Mining, Inference, and Prediction][elements-learning]
 * [Principles of Data Mining][principles-dm]
 * [Foundations of Statistical Natural Language Processing][foundations-nlp]
+* [Bayesian Reasoning and Machine Learning][bayesian-reasoning]
 
 [ml-book]: http://www.cambridge.org/us/academic/subjects/computer-science/pattern-recognition-and-machine-learning/machine-learning-art-and-science-algorithms-make-sense-data
 [learning-scikit-learn]: https://www.packtpub.com/big-data-and-business-intelligence/learning-scikit-learn-machine-learning-python
 [elements-learning]: http://statweb.stanford.edu/~tibs/ElemStatLearn/
 [principles-dm]: http://www.springer.com/computer/database+management+%26+information+retrieval/book/978-1-4471-4883-8
 [foundations-nlp]: http://nlp.stanford.edu/fsnlp/
+[bayesian-reasoning]: http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage
 
 ## Information Retrieval
 
