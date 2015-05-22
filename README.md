@@ -175,7 +175,7 @@ Are you *sure* Postgres can't do what you want?
 
 [scipy]: http://www.scipy.org/
 [sk-learn]: http://scikit-learn.org/stable/
-[nltk]: https://www.djangoproject.com/
+[nltk]: http://www.nltk.org/
 [numpy]: http://www.numpy.org/
 
 ## Web
