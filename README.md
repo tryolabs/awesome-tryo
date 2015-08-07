@@ -9,22 +9,10 @@ projects using Python, NLP & Machine Learning.
 # Overview
 
 We create amazing Internet & Mobile products for blazing startups. We combine
-the python ecosystem with machine learning and natural language processing
+the Python ecosystem with Machine Learning and Natural Language Processing
 technologies to create heavy backend apps with artificial intelligence
 components. We follow agile methodologies in order to develop MVPs and full
 products the lean way.
-
-## Training
-
-The training period at Tryolabs is at least two weeks. Its goal is to get up to
-speed with the tools the company uses. This repo contains a list of tutorials
-and documentation useful for becoming familiar with the Django/Python ecosystem,
-as well as some ML and NLP techniques.
-
-During the training period, we recommend doing at least an hour a day of pairing
-with a mentor who has experience in the team, to get to know the work process
-and the tools. The goal is to get the mentor to coment on the tasks they are
-doing to the person in training.
 
 # Development Tools
 
